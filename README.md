@@ -1,5 +1,32 @@
 # 💫 About Me:
-#### Hi there, I'm Abid Khan 👋<br><br>I’m a **Remote Desktop Support Engineer** currently transitioning into software development. <br>My primary focus is on **Data Structures and Algorithms (DSA)**, **System Design**, and working on **real-world projects**. <br>I’m passionate about learning and building scalable systems.<br><br>🔭 Currently working on:<br>- **TexTer**: A full-stack web application built using **React** and **Python** that helps users perform various text operations like conversion, formatting, and analysis.<br>- Exploring **Spring Boot**, **AWS**, and **Cloud Computing** for backend development.<br><br>🌱 Always learning:<br>- Diving deep into **System Design** and **Cloud technologies** to build more robust applications.<br>- Mastering **Spring Boot** for Java-based backend development.<br>  <br>💻 Known Technologies:<br>- **Java**, **JavaScript**, **Python**, **HTML**, **CSS**, and **Android Development**.<br>- Familiar with **React** for frontend development.<br><br>📫 Feel free to connect with me or reach out at: [akkhan.abid.01@gmail.com]<br><br>Let's build something amazing together! 🚀<br>
+#### Hi there, I'm Abid Khan 👋  
+
+I’m a **Remote Desktop Support Engineer** currently transitioning into **software development**.  
+My primary focus is on **Data Structures and Algorithms (DSA)**, **System Design**, and working on **real-world projects**.  
+I’m passionate about learning and building scalable systems.  
+-
+
+🔭 **Currently working on:**  
+- **TexTer**: A full-stack web application built using **React** and **Python** to perform various text operations like conversion, formatting, and analysis.  
+- Exploring **Spring Boot**, **AWS**, and **Cloud Computing** for backend development.
+- ---
+
+🌱 **Always learning:**  
+- Diving deep into **System Design** and **Cloud Technologies** to build more robust applications.  
+- Mastering **Spring Boot** for Java-based backend development.  
+---
+
+💻 **Known Technologies:**  
+- **Languages**: **Java**, **JavaScript**, **Python**, **HTML**, **CSS**, and **Android Development**.  
+- Familiar with **React** for frontend development.  
+---
+
+📫 **Feel free to connect with me:**  
+- Email: [akkhan.abid.01@gmail.com](mailto:akkhan.abid.01@gmail.com)  
+---
+
+🚀 Let’s build something amazing together!
+
 
 <div align="center">
 
