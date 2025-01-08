@@ -47,8 +47,7 @@ I’m passionate about learning and building scalable systems.
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidKhan01ak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidKhan01ak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 
 ---
 
