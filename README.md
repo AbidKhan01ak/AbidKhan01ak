@@ -5,6 +5,8 @@ I’m a **Remote Desktop Support Engineer** currently transitioning into **softw
 My primary focus is on **Data Structures and Algorithms (DSA)**, **System Design**, and working on **real-world projects**.  
 I’m passionate about learning and building scalable systems.  
 -
+[![Abid Khan profile views](https://u8views.com/api/v1/github/profiles/159985413/views/day-week-month-total-count.svg)](https://u8views.com/github/AbidKhan01ak)
+
 
 🔭 **Currently working on:**  
 - **TexTer**: A full-stack web application built using **React** and **Python** to perform various text operations like conversion, formatting, and analysis.  
@@ -50,7 +52,8 @@ I’m passionate about learning and building scalable systems.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidKhan01ak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 
 ---
-![](https://komarev.com/ghpvc/?username=AbidKhan01ak&style=for-the-badge&abbreviated=true&color=3674B5&label=PROFILE+VIEWS)
+
+
 [![](https://visitcount.itsvg.in/api?id=AbidKhan01ak&icon=1&color=15)](https://visitcount.itsvg.in)
 
 
