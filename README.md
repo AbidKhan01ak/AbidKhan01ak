@@ -50,7 +50,7 @@ I’m passionate about learning and building scalable systems.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidKhan01ak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 
 ---
-
+![](https://komarev.com/ghpvc/?username=AbidKhan01ak&style=for-the-badge&abbreviated=true&color=3674B5&label=PROFILE+VIEWS)
 [![](https://visitcount.itsvg.in/api?id=AbidKhan01ak&icon=1&color=15)](https://visitcount.itsvg.in)
 
 
