@@ -19,8 +19,8 @@ I’m passionate about learning and building scalable systems.
 ---
 
 💻 **Known Technologies:**  
-- **Languages**: **Java**, **JavaScript**, **Python**, **HTML**, **CSS**, and **Android Development**.  
-- Familiar with **React** for frontend development.  
+- **Languages**: **Java**, **JavaScript**, **HTML**, **CSS**, and **Android Development**.  
+- Familiar with **React** for frontend development & **Spring boot** for Backend Developement.  
 ---
 
 📫 **Feel free to connect with me:**  
